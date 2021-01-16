@@ -1,4 +1,4 @@
-package com.iyao.demo;
+package com.myself.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
